@@ -2,7 +2,6 @@ package br.com.devan.intro;
 
 public class PrimitiveDataTypes {
     public static void main(String[] args) {
-
         // PRIMITIVE DATA TYPES -----------
         // Basic data types that directly store simple values in a fixed amount of memory space.
 
@@ -47,5 +46,10 @@ public class PrimitiveDataTypes {
 
         int earthAge = (int) 10000000000L; // 1410065408 - does not fit
         float earnings = (float) 2500.0D; // 2500.0 - it fits
+
+        // STRING -----------
+        // Not primitive
+
+        String name = "Vitor";
     }
 }
