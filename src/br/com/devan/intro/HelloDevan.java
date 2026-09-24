@@ -1,3 +1,5 @@
+package br.com.devan.intro;
+
 public class HelloDevan {
     public static void main (String[] args){
         System.out.println("Hello World");
